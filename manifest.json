@@ -1,0 +1,16 @@
+{
+  "name": "Pak Hub Tools PRO - Offline",
+  "short_name": "PakHubTools",
+  "description": "200+ Tools - Bina Internet Ke Chalao - Qasim Bhai",
+  "start_url": "https://freeonlinepakhubtools.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#001a0f",
+  "theme_color": "#00cc66",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/1087/1087815.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
